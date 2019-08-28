@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/DataSolWiz/bdfc3e1d-bc7e-4103-b677-b1abcd1934ad/937ae649-0cf5-4aaa-acec-4c1c086447f7/_apis/work/boardbadge/77f2995c-e886-4f92-b9d3-99f8c3e2af69)](https://dev.azure.com/DataSolWiz/bdfc3e1d-bc7e-4103-b677-b1abcd1934ad/_boards/board/t/937ae649-0cf5-4aaa-acec-4c1c086447f7/Microsoft.RequirementCategory)
